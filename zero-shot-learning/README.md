@@ -1,2 +1,3 @@
-基础的zero-shot-learning的实现 \n
+基础的zero-shot-learning的实现
+
 pytorch
