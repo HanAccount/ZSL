@@ -1,1 +1,1 @@
-implement VAE and GAN
+implement VAE and GAN use pytorch
